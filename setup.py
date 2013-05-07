@@ -6,7 +6,7 @@ import setuptools
 
 setuptools.setup(
     name="python-breadcrumbs",
-    version="0.1",
+    version="0.1.1",
     author="Pierre Jaury",
     author_email="pierre@jaury.eu",
     description="Store breadcrumbs for later accessing an object internals",
